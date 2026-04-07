@@ -1,0 +1,10 @@
+# data format:
+DATA:
+
+# recording		transcription	 taken_data
+
+ka              [- k a -]		[- k a] [k a]
+ki              [- k i -]       [- k i] [k i]
+ku              [- k u -]		[- k u] [k u]
+ke              [- k e -]
+ko              [- k o -]

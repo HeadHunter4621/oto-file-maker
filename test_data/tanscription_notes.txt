@@ -1,0 +1,14 @@
+INI filetype
+
+[DATA] is information about the recordings (BPM, beats)
+
+[TRANSCRIPTIONS] is data for the recordings. Key is the name of the recording, value is bracket-seperated phoneme list (which is space-seperated) and continuant list (space-seperated))
+
+[PHONEMES] is data taken from recordings/transcriptions
+
+Special Symbols:
+_	Rest phoneme (silence)
+
+
+Processing:
+Reads phonemes for each transcription (starting with the first one, one at a time)
